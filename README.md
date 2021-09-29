@@ -10,3 +10,7 @@ A react native demo project from travel destinations.
 <pre>
 <code>yarn start</code>
 </pre>
+
+Inspiration from dribbble
+
+<a href="https://dribbble.com/shots/16127681-Travel-App-Discover-new-places">https://dribbble.com/shots/16127681-Travel-App-Discover-new-places</a>
