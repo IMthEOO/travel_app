@@ -1,6 +1,12 @@
-# travel_app
-Demo travel app
+# Demo Travel app
+A react native demo project from travel destinations.
+<img src="https://github.com/IMthEOO/travel_app/blob/master/assets/images/screenshot.png?raw=true" />
 
-<img src="https://github.com/IMthEOO/travel_app/blob/master/assets/images/screenshot.jpg?raw=true" />
+# Setup project
+<pre>
+<code>yarn install</code>
+</pre>
 
-yarn install
+<pre>
+<code>yarn start</code>
+</pre>
